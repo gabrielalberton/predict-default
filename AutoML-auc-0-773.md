@@ -1,6 +1,3 @@
-<details><summary> Exemplo de aplicação de AutoML para este puzzle, clique aqui!</summary>
-<p>
-
 ## Modelagem com AutoML
 
 Varios modelos foram treinados e seus SCORES (AUC ROC) finais retidos. A tabela abaixo mostra a pontuação e o tempo de treinamento dos modelos lightgbm, tensorflow, xgboost, lineares e de árvore de decisão avaliados pelo H2O AutoML. A tabela mostra os 10 principais modelos de ajuste de parâmetros avaliados,
@@ -319,5 +316,4 @@ De forma semelhante, inserimos este .csv no módulo de AutoML do google, que mes
 
 ![](media/google-relatório.png)
     
-</p>
-</details>
+Segue [aqui](/default-prediction.ipynb) para retornar ao notebook.
