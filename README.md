@@ -1,10 +1,10 @@
 # default-prediction
 
-O seguinte puzzle foi posto:
+Desafio resolvido como treinamento em ML para detecção de usuários fraudadores através de suas características.
 
 >**The problem:**
 >
->As a credit company, it is important to know beforehand who is able to pay their loans and who is not.
+> As a credit company, it is important to know beforehand who is able to pay their loans and who is not.
 >
 >**The goal of this puzzle:**
 >
